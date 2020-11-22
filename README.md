@@ -2,6 +2,8 @@
 My personal collection of interesting repos, started after many years of collecting them sporadically in the bookmarks of different browsers and various disconnected apps.
 
 
+* [Awesome-Production-ML](https://github.com/EthicalML/awesome-production-machine-learning) ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning.svg?style=social) - 
+
 <!-- [![Awesome](images/awesome.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-production-machine-learning/graphs/commit-activity)
 ![GitHub](https://img.shields.io/badge/Release-PROD-yellow.svg)
@@ -60,6 +62,23 @@ This repository contains a curated list of awesome open source libraries that wi
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Main Content
