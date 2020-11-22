@@ -1,8 +1,40 @@
 # Awesome-Repos
 My personal collection of interesting repos, started after many years of collecting them sporadically in the bookmarks of different browsers and various disconnected apps.
 
+## Awesome Lists
 
-* [Awesome-Production-ML](https://github.com/EthicalML/awesome-production-machine-learning) ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning.svg?style=social) - 
+* [Awesome-Production-ML](https://github.com/EthicalML/awesome-production-machine-learning) ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning.svg?style=social)
+* [Linux Foundation AI & DATA (LF-AI)](https://lfaidata.foundation/projects/) - Collection of open source projects sponsored by the Linux Foundation
+
+
+
+## Best Practices
+
+### Python
+
+* [pandas_style_guide](https://github.com/joshlk/pandas_style_guide) ![](https://img.shields.io/github/stars/joshlk/pandas_style_guide.svg?style=social)
+
+
+
+
+
+## Writing Tools
+
+* [SwiftLaTeX](https://www.swiftlatex.com) ![](https://img.shields.io/github/stars/SwiftLaTeX/SwiftLaTeX.svg?style=social) - Usable from any browser. WYSIWYG viewer and editor for writing and displaying LaTeX, written in Swift.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- [![Awesome](images/awesome.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-production-machine-learning/graphs/commit-activity)
