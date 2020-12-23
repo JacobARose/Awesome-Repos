@@ -6,6 +6,16 @@ My personal collection of interesting repos, started after many years of collect
 * [Awesome-MLOps](https://github.com/visenger/awesome-mlops) ![](https://img.shields.io/github/stars/visenger/awesome-mlops.svg?style=social) - Machine Learning Operations https://ml-ops.org/
 * [Awesome-Production-ML](https://github.com/EthicalML/awesome-production-machine-learning) ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning.svg?style=social)
 * [Linux Foundation AI & DATA (LF-AI)](https://lfaidata.foundation/projects/) - Collection of open source projects sponsored by the Linux Foundation
+* [Awesome-Incremental-Learning] (https://github.com/xialeiliu/Awesome-Incremental-Learning) ![](https://img.shields.io/github/stars/xialeiliu/Awesome-Incremental-Learning.svg?style=social) 
+* [Awesome Long-Tailed Recognition/ Imbalanced Learning] (https://github.com/xialeiliu/Awesome-LongTailed-Recognition) ![](https://img.shields.io/github/stars/xialeiliu/Awesome-LongTailed-Recognition.svg?style=social) 
+* [Awesome Imbalanced Learning] (https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) ![](https://img.shields.io/github/stars/ZhiningLiu1998/awesome-imbalanced-learning.svg?style=social) 
+
+
+## Resources & Tools
+
+* [Interesting resources related to XAI (Explainable Artificial Intelligence)] (https://github.com/pbiecek/xai_resources) ![](https://img.shields.io/github/stars/pbiecek/xai_resources.svg?style=social) 
+
+
 
 
 ## Best Practices
@@ -14,7 +24,7 @@ My personal collection of interesting repos, started after many years of collect
 
 * [pandas_style_guide](https://github.com/joshlk/pandas_style_guide) ![](https://img.shields.io/github/stars/joshlk/pandas_style_guide.svg?style=social)
 
-
+* [Python-Patterns](https://github.com/faif/python-patterns) ![](https://img.shields.io/github/stars/faif/python-patterns.svg?style=social) - Comprehensive list of design patterns for writing high quality Python code
 ## Learning Resources
 
 * [Google Cloud AI Hub](https://aihub.cloud.google.com)
