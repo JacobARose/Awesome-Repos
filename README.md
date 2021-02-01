@@ -6,10 +6,10 @@ My personal collection of interesting repos, started after many years of collect
 * [Awesome-MLOps](https://github.com/visenger/awesome-mlops) ![](https://img.shields.io/github/stars/visenger/awesome-mlops.svg?style=social) - Machine Learning Operations https://ml-ops.org/
 * [Awesome-Production-ML](https://github.com/EthicalML/awesome-production-machine-learning) ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning.svg?style=social)
 * [Linux Foundation AI & DATA (LF-AI)](https://lfaidata.foundation/projects/) - Collection of open source projects sponsored by the Linux Foundation
-* [Awesome-Incremental-Learning] (https://github.com/xialeiliu/Awesome-Incremental-Learning) ![](https://img.shields.io/github/stars/xialeiliu/Awesome-Incremental-Learning.svg?style=social) 
-* [Awesome Long-Tailed Recognition/ Imbalanced Learning] (https://github.com/xialeiliu/Awesome-LongTailed-Recognition) ![](https://img.shields.io/github/stars/xialeiliu/Awesome-LongTailed-Recognition.svg?style=social) 
-* [Awesome Imbalanced Learning] (https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) ![](https://img.shields.io/github/stars/ZhiningLiu1998/awesome-imbalanced-learning.svg?style=social) 
-* [Awesome FastAPI] (https://github.com/mjhea0/awesome-fastapi) ![](https://img.shields.io/github/stars/mjhea0/awesome-fastapi.svg?style=social)
+* [Awesome-Incremental-Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning) ![](https://img.shields.io/github/stars/xialeiliu/Awesome-Incremental-Learning.svg?style=social) 
+* [Awesome Long-Tailed Recognition/Imbalanced Learning](https://github.com/xialeiliu/Awesome-LongTailed-Recognition) ![](https://img.shields.io/github/stars/xialeiliu/Awesome-LongTailed-Recognition.svg?style=social) 
+* [Awesome Imbalanced Learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) ![](https://img.shields.io/github/stars/ZhiningLiu1998/awesome-imbalanced-learning.svg?style=social) 
+* [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi) ![](https://img.shields.io/github/stars/mjhea0/awesome-fastapi.svg?style=social)
 
 ## Resources & Tools
 
