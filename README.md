@@ -9,7 +9,7 @@ My personal collection of interesting repos, started after many years of collect
 * [Awesome-Incremental-Learning] (https://github.com/xialeiliu/Awesome-Incremental-Learning) ![](https://img.shields.io/github/stars/xialeiliu/Awesome-Incremental-Learning.svg?style=social) 
 * [Awesome Long-Tailed Recognition/ Imbalanced Learning] (https://github.com/xialeiliu/Awesome-LongTailed-Recognition) ![](https://img.shields.io/github/stars/xialeiliu/Awesome-LongTailed-Recognition.svg?style=social) 
 * [Awesome Imbalanced Learning] (https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) ![](https://img.shields.io/github/stars/ZhiningLiu1998/awesome-imbalanced-learning.svg?style=social) 
-
+* [Awesome FastAPI] (https://github.com/mjhea0/awesome-fastapi) ![](https://img.shields.io/github/stars/mjhea0/awesome-fastapi.svg?style=social)
 
 ## Resources & Tools
 
