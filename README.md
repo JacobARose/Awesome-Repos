@@ -3,6 +3,7 @@ My personal collection of interesting repos, started after many years of collect
 
 ## Awesome Lists
 
+* [Awesome-Scalability](https://github.com/binhnguyennus/awesome-scalability) ![](https://img.shields.io/github/stars/binhnguyennus/awesome-scalability.svg?style=social) - List & notes on programming best practices.
 * [Awesome-MLOps](https://github.com/visenger/awesome-mlops) ![](https://img.shields.io/github/stars/visenger/awesome-mlops.svg?style=social) - Machine Learning Operations https://ml-ops.org/
 * [Awesome-Production-ML](https://github.com/EthicalML/awesome-production-machine-learning) ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning.svg?style=social)
 * [Linux Foundation AI & DATA (LF-AI)](https://lfaidata.foundation/projects/) - Collection of open source projects sponsored by the Linux Foundation
